@@ -2,7 +2,7 @@
   "name": "techmentorhub-2.0",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://cracked-c0de.github.io/techmentorhub-2.0/",
+  "homepage": "https://cracked-c0de.github.io/techmentorhub-2.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
