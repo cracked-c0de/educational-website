@@ -2,11 +2,14 @@
   "name": "techmentorhub-2.0",
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://cracked-c0de.github.io/techmentorhub-2.0/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.0",
