@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss(),],
   base: "/",
   server: {
-    allowedHosts: ['vigorously-first-oriole.ngrok-free.app'],
+    allowedHosts: ['vigorously-first-oriole.ngrok-free.app', "cracked-c0de.github.io"],
   }
 })
